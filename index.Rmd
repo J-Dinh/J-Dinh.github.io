@@ -1,0 +1,12 @@
+---
+title: "Lab 3"
+author: "Jas Dinh"
+date: "9/14/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Placeholder for website
