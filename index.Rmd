@@ -1,12 +1,30 @@
 ---
-title: "Lab 3"
-author: "Jas Dinh"
-date: "9/14/2021"
-output: html_document
+title: ' '
+pagetitle: 'Your Name'
+output: 
+  html_document: 
+    css: "styles.css"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{R echo=F, eval=F}
+#to build this website into the _site directory, run
+rmarkdown::site_generator()
 ```
+ 
+<img src="avatar.jpg" style=width:40% class="img-circle">
 
-## Placeholder for website
+<br>
+
+# Welcome! I am Jas Dinh. 
+  
+</br>
+
+##### I am a Psychology major in the Plan ii Honors Program.
+
+##### I enjoy baking and painting. 
+
+##### I love volunteering in the American Red Cross!  
+
+##### Check out my first project [here](https://j-dinh.github.io/portfolio)!
+
+---
