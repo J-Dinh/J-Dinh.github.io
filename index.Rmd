@@ -25,6 +25,6 @@ rmarkdown::site_generator()
 
 ##### I love volunteering in the American Red Cross!  
 
-##### Check out my first project [here](https://j-dinh.github.io/portfolio)!
+##### Check out my data science projects [here](https://j-dinh.github.io/portfolio)!
 
 ---

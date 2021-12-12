@@ -17,10 +17,10 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 - <i class="fa fa-chart-line"> </i> [Project 1: Description](https://j-dinh.github.io/project1/)
 
-    - Longer Description
+    - Using COVID-19 data for data wrangling, exploration, and visualization
 
 <br>
 
-- <i class="fa fa-chart-pie"> </i> [Project 2: Description](https://www.google.com)
+- <i class="fa fa-chart-pie"> </i> [Project 2: Description](https://j-dinh.github.io/project2/)
 
-    - Longer Description
+    - Using Rossi et al. (1980) data on criminal recidivism for machine learning models including cluster analysis, dimensionality reduction (PCA), linear and non-parametric classifiers, and regression prediction
