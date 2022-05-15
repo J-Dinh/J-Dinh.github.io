@@ -27,6 +27,6 @@ rmarkdown::site_generator()
 ##### In my free time, I enjoy baking, hiking, and painting. 
 ##### I love volunteering in the American Red Cross and have been in the organization for 7 years.  
 ##### 
-##### Check out my data science projects [here](https://j-dinh.github.io/portfolio)!
+##### Check out my data science projects [here](file:///C:/Users/silve/OneDrive/Documents/R/SDS322E/homepage/_site/portfolio.html)!
 
 ---

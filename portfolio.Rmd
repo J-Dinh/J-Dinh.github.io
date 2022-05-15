@@ -33,7 +33,7 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 <br>
 
-- <i class="fa fa-area-line"> </i> [Project 4: E-commerce Predictive Modeling](https://j-dinh.github.io/project4/)
+- <i class="fa fa-area-chart"> </i> [Project 4: E-commerce Predictive Modeling](https://j-dinh.github.io/project4/)
 
     - Investigated the factors influencing whether a package arrives on time using machine learning algorithms such as cluster analysis, PCA, KNN, decision tree, and Adaptive Boosting
     
