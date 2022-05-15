@@ -15,12 +15,26 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 <br>
 
-- <i class="fa fa-chart-line"> </i> [Project 1: Description](https://j-dinh.github.io/project1/)
+- <i class="fa fa-chart-bar"> </i> [Project 1: COVID-19 Data Analysis](https://j-dinh.github.io/project1/)
 
     - Using COVID-19 data for data wrangling, exploration, and visualization
 
 <br>
 
-- <i class="fa fa-chart-pie"> </i> [Project 2: Description](https://j-dinh.github.io/project2/)
+- <i class="fa fa-chart-pie"> </i> [Project 2: Machine Learning on Criminal Recidivism](https://j-dinh.github.io/project2/)
 
     - Using Rossi et al. (1980) data on criminal recidivism for machine learning models including cluster analysis, dimensionality reduction (PCA), linear and non-parametric classifiers, and regression prediction
+    
+<br>
+
+- <i class="fa fa-chart-line"> </i> [Project 3: UT MLDS Data Hackathon](https://j-dinh.github.io/project3/)
+
+    - Analyzed Upworthy’s pledge on being clickbait-free and evaluated potential investment in company in Data Hackathon. Performed time series analysis, regression models, text mining, and NLP sentiment analysis to evaluate clickbait in headlines
+
+<br>
+
+- <i class="fa fa-area-line"> </i> [Project 4: E-commerce Predictive Modeling](https://j-dinh.github.io/project4/)
+
+    - Investigated the factors influencing whether a package arrives on time using machine learning algorithms such as cluster analysis, PCA, KNN, decision tree, and Adaptive Boosting
+    
+<br>

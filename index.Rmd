@@ -11,6 +11,8 @@ output:
 rmarkdown::site_generator()
 ```
  
+<meta name="google-site-verification" content="pxXlJ2cPsKGU-wdX0d5sJlLumer1fP__o0QBizgRqqs" />
+
 <img src="avatar.jpg" style=width:40% class="img-circle">
 
 <br>
@@ -19,12 +21,12 @@ rmarkdown::site_generator()
   
 </br>
 
-##### I am a Psychology major in the Plan ii Honors Program.
-
-##### I enjoy baking and painting. 
-
-##### I love volunteering in the American Red Cross!  
-
+##### I am a Plan II Honors student interested in behavioral data science. 
+##### I am passionate about the societal impact of data science and specialize in machine learning algorithms.
+##### 
+##### In my free time, I enjoy baking, hiking, and painting. 
+##### I love volunteering in the American Red Cross and have been in the organization for 7 years.  
+##### 
 ##### Check out my data science projects [here](https://j-dinh.github.io/portfolio)!
 
 ---
